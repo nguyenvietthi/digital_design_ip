@@ -29,4 +29,4 @@
 ////////////////////////////////////////////////////////////////////////////////
 -y ../../hdl
 -y ../../libs/full_adder_n_bit/hdl
-../../hdl/baugh_wooley_multiplier.v
+../../hdl/baugh_wooley_multiplier_4_bit.v

@@ -6,7 +6,7 @@ module baugh_wooley_multiplier_tb();
   reg  [3:0] y;
   wire [7:0] z;
   
-  baugh_wooley_multiplier baugh_wooley_multiplier_inst(
+  baugh_wooley_multiplier_4_bit baugh_wooley_multiplier_4_bit_inst(
     .x (x),
     .y (y),
     .z (z)

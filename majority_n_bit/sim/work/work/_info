@@ -1,0 +1,67 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/data5/workspace/thinv0/BTL/digital_design_ip/majority_n_bit/sim/work
+T_opt
+!s110 1667877712
+VdMZ;>UJWSYWeCJJ0fXYN03
+04 17 4 work majority_n_bit_tb fast 0
+=1-246e9608ab26-6369cb50-465d0-a0df
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6;65
+vmajority_n_bit
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1667877711
+!i10b 1
+!s100 J1TG5Qmb7^hg]?C5ljiP>1
+I8I`_1Zef2JJcNz5;5R6;F0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 majority_n_bit_v_unit
+S1
+R0
+w1667877688
+8../../hdl/majority_n_bit.v
+F../../hdl/majority_n_bit.v
+L0 1
+Z4 OL;L;10.6;65
+r1
+!s85 0
+31
+Z5 !s108 1667877711.000000
+!s107 ../../hdl/majority_n_bit.v|
+!s90 -f|../script/filelist_rtl.f|+cover=bcefs|-l|./log/vlogr.log|
+!i113 0
+!s102 +cover=bcefs
+o+libext+.v +libext+.vh +libext+.sv +libext+.svh +libext+.h -sv +nospecify +notimingchecks -timescale 1ns/1ps +cover=bcefs -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 +libext+.v +libext+.vh +libext+.sv +libext+.svh +libext+.h -sv +nospecify +notimingchecks -timescale 1ns/1ps +define+REGISTER_LOG +define+DATA_MEMORY_LOG +incdir+../../include -y ../../hdl -y ../../libs/full_adder_n_bit/hdl +cover=bcefs -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vmajority_n_bit_tb
+R2
+!i10b 1
+!s100 =kJR]V^AbY6ig5k>WY;fm1
+IB<H`R5TgLUozBgA4jgI7n2
+R3
+R0
+w1667877709
+8../tb/majority_n_bit_tb.v
+F../tb/majority_n_bit_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../tb/majority_n_bit_tb.v|
+!s90 -f|../script/filelist_tb.f|-l|./log/vlogt.log|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 +incdir+../../include -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

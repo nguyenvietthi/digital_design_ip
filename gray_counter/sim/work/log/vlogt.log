@@ -1,0 +1,9 @@
+QuestaSim-64 vlog 10.6 Compiler 2016.12 Dec 13 2016
+Start time: 18:50:16 on Nov 15,2022
+vlog -f ../script/filelist_tb.f -l ./log/vlogt.log 
+-- Compiling module gray_counter_tb
+
+Top level modules:
+	gray_counter_tb
+End time: 18:50:16 on Nov 15,2022, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

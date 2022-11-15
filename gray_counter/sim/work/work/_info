@@ -1,0 +1,67 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/data5/workspace/thinv0/BTL/digital_design_ip/gray_counter/sim/work
+T_opt
+Z1 !s110 1668513016
+VQQL@R>Ulakm^m:A30>U6;1
+04 15 4 work gray_counter_tb fast 0
+=1-1458d04d8560-63737cf8-d6475-9efa
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;10.6;65
+vgray_counter
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R1
+!i10b 1
+!s100 <]oP>KA4zm=l5@67WZ]3X3
+I:]lTjCG=aAR0<1NSB3cC83
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 gray_counter_v_unit
+S1
+R0
+w1668484053
+8../../hdl/gray_counter.v
+F../../hdl/gray_counter.v
+L0 1
+Z4 OL;L;10.6;65
+r1
+!s85 0
+31
+!s108 1668513015.000000
+!s107 ../../hdl/gray_counter.v|
+!s90 -f|../script/filelist_rtl.f|+cover=bcefs|-l|./log/vlogr.log|
+!i113 0
+!s102 +cover=bcefs
+o+libext+.v +libext+.vh +libext+.sv +libext+.svh +libext+.h -sv +nospecify +notimingchecks -timescale 1ns/1ps +cover=bcefs -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 +libext+.v +libext+.vh +libext+.sv +libext+.svh +libext+.h -sv +nospecify +notimingchecks -timescale 1ns/1ps +define+REGISTER_LOG +define+DATA_MEMORY_LOG +incdir+../../include -y ../../hdl +cover=bcefs -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vgray_counter_tb
+R1
+!i10b 1
+!s100 bbU8<Pb[TRZ?6b<A`cHHC1
+I:g<dnkc8XnRKePQ<G4O^g2
+R3
+R0
+w1668483893
+8../tb/gray_counter_tb.v
+F../tb/gray_counter_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1668513016.000000
+!s107 ../tb/gray_counter_tb.v|
+!s90 -f|../script/filelist_tb.f|-l|./log/vlogt.log|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 +incdir+../../include -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2

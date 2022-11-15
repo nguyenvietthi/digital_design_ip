@@ -1,0 +1,28 @@
+# vsim -c gray_counter_tb -wlf vsim.wlf -coverage -voptargs="+acc" -l vsim.log -do "coverage save -onexit -code bcefs -directive -cvg coverage.ucdb; add wave -r /gray_counter_tb/*; run -all; quit" 
+# Start time: 18:50:16 on Nov 15,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# //  Questa Sim-64
+# //  Version 10.6 linux_x86_64 Dec 13 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading work.gray_counter_tb(fast)
+# Loading sv_std.std
+# Loading work.gray_counter(fast)
+# coverage save -onexit -code bcefs -directive -cvg coverage.ucdb
+#  add wave -r /gray_counter_tb/*
+#  run -all
+# ** Note: $finish    : ../tb/gray_counter_tb.v(31)
+#    Time: 640 ns  Iteration: 1  Instance: /gray_counter_tb
+# Saving coverage database on exit...
+# End time: 18:50:17 on Nov 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
